@@ -1,0 +1,50 @@
+* {
+  font-family: Helvetica;
+}
+
+.nav {
+  background-color: silver;
+}
+
+a {
+  color: black;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("../images/pattern.jpeg");
+  font-weight: bold;
+  }
+
+/*
+######## Content of the page
+*/
+
+.mediumspringgreencolor {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.lightcoralcolor {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.skybluecolor {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.prijs {
+  font-weight: bold;
+  color: blue;
+}
