@@ -16,31 +16,26 @@ h1 {
   color: khaki;
   text-align: center;
   background-image: url("../images/pattern.jpeg");
-  font-weight: bold;
-  }
+}
 
 /*
 ######## Content of the page
 */
-
-.mediumspringgreencolor {
+h2 {
   font-size: 32px;
   font-weight: bold;
   color: white;
+}
+
+.mediumspringgreencolor {
   background-color: mediumspringgreen;
 }
 
 .lightcoralcolor {
-  font-size: 32px;
-  font-weight: bold;
-  color: white;
   background-color: lightcoral;
 }
 
 .skybluecolor {
-  font-size: 32px;
-  font-weight: bold;
-  color: white;
   background-color: skyblue;
 }
 
